@@ -4,6 +4,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/Bladeball/
 elseif game.PlaceId == 12355337193 then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/Mrdrmrdhetrif/refs/heads/main/Mrdervssherrif"))()
+elseif game.PlaceId == 4282985734 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/CombatWarrios/refs/heads/main/CombatWarrios"))()
+elseif game.PlaceId == 11979319180 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/CombatWarrios/refs/heads/main/CombatWarrios"))()
 else
     local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
     Fluent:Notify({Title = "Sixbow Hub", Content = "Unsupported Game", Duration = 3})
