@@ -1,7 +1,7 @@
 if game.PlaceId == 13772394625 then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/Bladeball/refs/heads/main/Blade"))()
-elseif game.PlaceId == 1235537193 then
+elseif game.PlaceId == 12355337193 then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0xOntop/Mrdrmrdhetrif/refs/heads/main/Mrdervssherrif"))()
 else
